@@ -4,13 +4,13 @@ A mods library made with love by Trollmo <3
 # Mods
 ## RunRestart
 A mod that let you restart your game run and SpeedrunTimer by pressing F5
-Usage:
--Press F5 key to restart run
+<br>Usage:
+<br>-Press F5 key to restart run
 ## SpeedIndicator
 Shows you multiple velocity data (X, Y, Z, Magnitude...) Check it by yourself, it is helful for improving on speedrun technique
-Usage:
--Press F3 key to hide/shot
--Use the UI slider to change sice
+<br>Usage:
+<br>-Press F3 key to hide/shot
+<br>-Use the UI slider to change sice
 
 # Installation
 Download and intall [Melon Loader installer](https://melonwiki.xyz/#/README?id=automated-installation) as explained on its site:
@@ -25,11 +25,10 @@ Finally, add the desired mod to the "mods" folder.
 
 And... you got it
 
-
+<br><br><br>
 ### Acknowledgments
-
-Victor Alhing, who made JKR and let me mod it
-o7Moon, that motivated me on start game modding
-Melon Loader discord, who solved my dumbass problems (kinda)
-ChatGPT, that revised my code and told me that I could get sued for modding
+<br>Victor Alhing, who made JKR and let me mod it
+<br>o7Moon, that motivated me on start game modding
+<br>Melon Loader discord, who solved my dumbass problems (kinda)
+<br>ChatGPT, that revised my code and told me that I could get sued for modding
 
