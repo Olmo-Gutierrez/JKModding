@@ -12,7 +12,7 @@ Usage:
 -Press F3 key to hide/shot
 -Use the UI slider to change sice
 
-#Installation
+# Installation
 Download and intall [Melon Loader installer](https://melonwiki.xyz/#/README?id=automated-installation) as explained on its site:
 >1. Download MelonLoader.Installer.exe.
 >2. Run MelonLoader.Installer.exe.
