@@ -12,7 +12,7 @@ Shows you multiple velocity data (X, Y, Z, Magnitude...) Check it by yourself, i
 <br>-Press F3 key to hide/shot
 <br>-Use the UI slider to change sice
 ## [IntroSkip](https://github.com/Olmo-Gutierrez/JKModding/blob/main/Mods/IntroSkip.dll)
-<br>Just skips the I.M.I.Self intro (Allowed by Victor Ahlin)
+Just skips the I.M.I.Self intro (Allowed by Victor Ahlin)
 
 # Installation
 Download and intall [Melon Loader installer](https://melonwiki.xyz/#/README?id=automated-installation) as explained on its site:
