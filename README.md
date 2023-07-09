@@ -26,7 +26,7 @@ Finally, add the desired mod to the "mods" folder.
 And... you got it
 
 
-**Acknowledgments**
+### Acknowledgments
 
 Victor Alhing, who made JKR and let me mod it
 o7Moon, that motivated me on start game modding
