@@ -2,11 +2,11 @@
 ![](https://github.com/Olmo-Gutierrez/JKModding/blob/main/Images/Just%20Keep%20Modding%20Logo.png)
 A mods library made with love by Trollmo <3
 # Mods
-## RunRestart
+## [RunRestart]()
 A mod that let you restart your game run and SpeedrunTimer by pressing F5
 <br>Usage:
 <br>-Press F5 key to restart run
-## SpeedIndicator
+## [SpeedIndicator](https://github.com/Olmo-Gutierrez/JKModding/blob/main/Mods/SpeedIndicator.dll)
 Shows you multiple velocity data (X, Y, Z, Magnitude...) Check it by yourself, it is helful for improving on speedrun technique
 <br>Usage:
 <br>-Press F3 key to hide/shot
