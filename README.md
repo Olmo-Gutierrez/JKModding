@@ -15,11 +15,11 @@ Usage:
 #Installation
 Download and intall [Melon Loader installer](https://melonwiki.xyz/#/README?id=automated-installation) as explained on its site:
 >1. Download MelonLoader.Installer.exe.
-2. Run MelonLoader.Installer.exe.
-3. Click the SELECT button.
-4. Select and Open the Game's EXE in your Game's Installation Folder.
-5. Select which Version of MelonLoader to install using the Drop-Down List. (Or leave it as-is for the Latest Version.)
-6. Click the INSTALL or RE-INSTALL button.
+>2. Run MelonLoader.Installer.exe.
+>3. Click the SELECT button.
+>4. Select and Open the Game's EXE in your Game's Installation Folder.
+>5. Select which Version of MelonLoader to install using the Drop-Down List. (Or leave it as-is for the Latest Version.)
+>6. Click the INSTALL or RE-INSTALL button.
 
 Finally, add the desired mod to the "mods" folder.
 
